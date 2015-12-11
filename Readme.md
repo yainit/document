@@ -1,14 +1,11 @@
-                   Withdrawn
-###################################################
-Sorry, they did it!
-During the electoral campaign in Spain, my bank account was 
-touched by the generally propagated weirdness and money was
-withdrawn by Spanish authorities 
-without preceding announcement or any justification. 
+                 DOCUMENT
+===============================================
 
-For your comprehension that free software is not to publish
-under the circumstances of attacks against the European social
-conventions, many thanks!   
+This repository contains all relevant documentation for
+the YaIniT Project.
 
-2015-05-22
-Dieter Miosga    
+The file 
+YaIniT-manual.pdf 
+contains all relevant informations
+for booting into GNU/Linux distributions with the YaIniT tools.
+  
